@@ -1,13 +1,13 @@
 ---
 title: Getting Started
-author: Dennis Brotzky
+author: Maxime
 date: '2020-08-30'
-excerpt: 'It''s not about motivaion, it''s about how much you want it!'
+excerpt: 'It''s not about motivation, it''s about how much you want it!'
 hero: images/6tin - Maxime (1).jpg
 ---
 # From running to Running
 
-In Bosotn I would run with my dog to stay in shape and tire him out. The idea never came to me to train for any sort of race or competitive event.
+In Boston I would run with my dog to stay in shape and tire him out. The idea never came to me to train for any sort of race or competitive event.
 
 At the time I had worked as a bike messenger on and off for 3 years and that was my daily dose of "endurance training" if we can call it that.
 
